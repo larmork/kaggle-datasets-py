@@ -3,6 +3,7 @@
 ### To use this analysis
 
 You should be familiar with such technologies, as: Python (Pandas, Numpy, Matplotlib), Jupiter Notebook environment
+
 ---
 ### Questions for research
 
