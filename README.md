@@ -1,6 +1,10 @@
 # pandas-ds
-### Questions for research
 ---
+### To use this analysis
+
+You should be familiar with such technologies, as: Python (Pandas, Numpy, Matplotlib), Jupiter Notebook environment
+---
+### Questions for research
 
 1. The most popular theme for the dataset
 2. Which dataset is the best/worst according to the number of votes?
