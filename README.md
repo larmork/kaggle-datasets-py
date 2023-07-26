@@ -1,4 +1,4 @@
-# pandas-ds
+# analysis of kaggle dataset
 ---
 ### To use this analysis
 
