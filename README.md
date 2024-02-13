@@ -1,4 +1,4 @@
-# analysis of kaggle dataset
+# Analysis of kaggle datasets
 ---
 ### To use this analysis
 
